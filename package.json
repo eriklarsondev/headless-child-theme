@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "A scalable headless WordPress theme optimized for custom post types and dynamic web content",
+  "description": "A scalable headless WordPress child theme optimized for custom post types and dynamic web content",
   "keywords": [],
   "license": "UNLICENSED",
   "devDependencies": {
