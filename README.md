@@ -1,3 +1,3 @@
-# Headless Child Theme
+# Devfolio (Child)
 
-A scalable headless WordPress child theme optimized for custom post types and dynamic web content
+A lightweight and scalable WordPress child theme designed to be used as a headless CMS

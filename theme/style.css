@@ -1,16 +1,16 @@
 /*
-Theme Name: Headless Child Theme
+Theme Name: Devfolio (Child)
 Theme URI: #
 Version: 0.1.0
-Template: headless-theme/theme
+Template: devfolio/theme
 Requires PHP: 7.0
 Requires at least: 5.0
 Tested up to: 6.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: headless-child-theme
-Description: A scalable headless WordPress child theme optimized for custom post types and dynamic web content
+Text Domain: devfolio-child
+Description: A lightweight and scalable WordPress child theme designed to be used as a headless CMS
 Author: Erik Larson
 Author URI: #
-Tags: WordPress Child Theme, Headless Architecture, WordPress REST API, Custom Post Types, Advanced Custom Fields
+Tags: wordpress theme, headless architecture, rest api, custom post types, advanced custom fields
 */

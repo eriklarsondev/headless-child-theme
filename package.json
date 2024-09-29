@@ -1,9 +1,9 @@
 {
-  "name": "headless-child-theme",
+  "name": "devfolio-child",
   "private": true,
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "A scalable headless WordPress child theme optimized for custom post types and dynamic web content",
+  "description": "A lightweight and scalable WordPress child theme designed to be used as a headless CMS",
   "keywords": [],
   "license": "UNLICENSED",
   "devDependencies": {
